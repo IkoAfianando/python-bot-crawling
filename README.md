@@ -13,11 +13,11 @@ Pastikan Anda telah memiliki Python yang terinstal di komputer Anda. Anda juga m
 Mulai dengan membuat virtual environment (venv) untuk memisahkan instalasi Python dan dependensi program ini dari instalasi global Anda. Buka terminal atau command prompt, lalu ketik perintah berikut:
 
 ```bash
-python3 -m venv myenv
+python3 -m venv ikoenv
 ```
 
 ```bash
-source venv/bin/activate
+source ikoenv/bin/activate
 ```
 ```bash
 pip install -r requirements.txt
